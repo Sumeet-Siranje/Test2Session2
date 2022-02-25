@@ -1,1 +1,11 @@
 
+Reading symbols from a.out...
+(gdb) r
+Starting program: /home/a.out 
+enter the numbers
+2
+2
+2
+2
+the distance between (2.000000,2.000000) and (2.000000,2.000000)is 0.000000
+[Inferior 1 (process 2360) exited normally]
