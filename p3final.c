@@ -8,6 +8,7 @@ int input_number(){
 int is_prime(int n){
   int value=0;
   for(int i=1;i<n;i++)
+    
     {
       if(n%i==0)
         value=value+1;
