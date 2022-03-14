@@ -1,1 +1,12 @@
-
+Reading symbols from a.out...
+(gdb) r
+Starting program: /home/a.out 
+enter the coordinates
+23
+21
+25
+34
+23
+45
+the given side dont form a triangle
+[Inferior 1 (process 673) exited normally]
